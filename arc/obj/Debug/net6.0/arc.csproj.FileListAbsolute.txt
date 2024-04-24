@@ -1,0 +1,15 @@
+/home/disco/RiderProjects/arc/arc/bin/Debug/net6.0/arc
+/home/disco/RiderProjects/arc/arc/bin/Debug/net6.0/arc.deps.json
+/home/disco/RiderProjects/arc/arc/bin/Debug/net6.0/arc.runtimeconfig.json
+/home/disco/RiderProjects/arc/arc/bin/Debug/net6.0/arc.dll
+/home/disco/RiderProjects/arc/arc/bin/Debug/net6.0/arc.pdb
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.csproj.AssemblyReference.cache
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.GeneratedMSBuildEditorConfig.editorconfig
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.AssemblyInfoInputs.cache
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.AssemblyInfo.cs
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.csproj.CoreCompileInputs.cache
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.dll
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/refint/arc.dll
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.pdb
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/arc.genruntimeconfig.cache
+/home/disco/RiderProjects/arc/arc/obj/Debug/net6.0/ref/arc.dll
